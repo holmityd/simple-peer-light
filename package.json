@@ -6,6 +6,7 @@
     "name": "Gregor Mitscha-Baude",
     "email": "gregor.mitscha-baude@gmx.at"
   },
+  "type": "module",
   "bugs": {
     "url": "https://github.com/mitschabaude/simple-peer-light/issues"
   },
